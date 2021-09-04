@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
+//Array
 int main() {
     float height[10];
     float sum = 0;
